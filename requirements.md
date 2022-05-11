@@ -48,7 +48,7 @@ To develop a python library to perform various mathematical operations
 ### Module 10:
     Filename: cone.py
     Task: Write a program in python to calculate volume of a cone
-    Assigned To: Name of the software developer: Kumaran B 
+    Assigned To: Name of the software developer: Balaji N
 
 ### Module 11:
 Note: Start working in module-11 after finishing 1 to 10 modules. All the definitions to be created in utility.py file by multiple team members.
